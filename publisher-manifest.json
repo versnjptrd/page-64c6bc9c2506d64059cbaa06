@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "59fc0915b4814b3e2d8c55b7",
+  "owner": "versnjptrd",
+  "repo": "page-64c6bc9c2506d64059cbaa06",
+  "title": "闪电猫(SPEEDCAT)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "64c6bc9c2506d64059cbaa06",
+      "a": "闪电猫(SPEEDCAT)",
+      "b": "2027最新官网",
+      "entity": "闪电猫(SPEEDCAT)",
+      "brand": "闪电猫(SPEEDCAT)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b267380f2265cdac6880a284e9240624a4f5aebddf65df68113222d12a6e52ed",
+      "content": {
+        "primary_entity": "闪电猫(SPEEDCAT)",
+        "keyword1": "闪电猫(SPEEDCAT)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选对应客户端，完成订阅配置即可使用。",
+          "AI_CLIENTS_TITLE": "客户端与设备选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选套餐，完成订阅配置后即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，帮助不同需求的用户找到合适的方案。基础版适合个人日常浏览，旗舰版兼顾流媒体与游戏加速，团队版面向多设备协作场景。客户端覆盖主流桌面与移动系统，按设备安装对应版本并导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和订阅周期三个角度梳理套餐差异。",
+          "AI_FEATURES_TITLE": "套餐选择参考",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量，支持3台设备同时在线，适合个人日常使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月300GB流量，支持5台设备，含IPLC专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月1000GB流量，支持20台设备，提供VIP高带宽节点。",
+          "AI_FEATURE_TITLE_1": "按流量需求选",
+          "AI_FEATURE_TITLE_2": "按设备数量选",
+          "AI_FEATURE_TITLE_3": "按周期与权益选",
+          "AI_GUIDE_INTRO": "三步完成从选择到使用的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "闪电猫(SPEEDCAT)提供基础版、旗舰版与团队版三档套餐，分别对应不同流量、设备数量与线路权益。用户可依据日常上网、流媒体观看或多人协作等场景，选择适合的订阅方案。",
+          "AI_HERO_SUBTITLE": "闪电猫加速器套餐与客户端配置",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "按设备数量选择在线额度",
+          "AI_HIGHLIGHT_3": "年付方案降低月均成本",
+          "AI_PLANS_INTRO": "基础版每月15元，旗舰版每月35元，团队版每月85元；按年付分别150元、350元、850元。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量与同时在线设备数量，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量与线路类型，查看是否满足流媒体或游戏加速需求。",
+          "AI_STEP_TEXT_3": "在设备上安装对应客户端，参照客户端文档导入订阅信息完成配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "闪电猫加速器套餐选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "闪电猫(SPEEDCAT)套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "基础版适合单人日常使用，月付 ¥15 含 100GB 流量与 3 台设备；旗舰版月付 ¥35 含 300GB 流量与 5 台设备，并带 IPLC 专线游戏加速；团队版月付 ¥85 含 1000GB 流量与 20 台设备。可按流量和在线设备数选择。",
+          "AI_FAQ_QUESTION_2": "一个账号能同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出限制时，新设备可能无法连接，需要升级套餐或退出部分设备。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费，灵活调整；年付一次性支付，享受折扣。基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，相当于月付约两个月的价格，适合长期使用者。",
+          "AI_FAQ_QUESTION_4": "订阅链接怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "在客户端中找到订阅或配置链接入口，粘贴已获取的订阅地址，更新后即可看到节点列表。不同客户端操作入口不同，可查看对应客户端文档或帮助说明。",
+          "AI_FAQ_QUESTION_5": "支持哪些设备使用？",
+          "AI_FAQ_ANSWER_5": "闪电猫(SPEEDCAT)可用于 Windows、macOS、iOS、Android 以及部分路由器系统。各平台需安装对应客户端并导入订阅，具体兼容性以客户端文档为准。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--cdwm5qvpn.com",
+    "host": "xn--cdwm5qvpn.com"
+  },
+  "file_hashes": {
+    "index.html": "a22aff4f1f3ef55bec1408cd566a65dc8c17d9987f9557d98f5a83b302883db3",
+    "sitemap.xml": "f68333997390dc5d80c69d5a638d31a589dc24ff1e7a388a53c6db14bfae349b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "14db51b9eb6f7756568a59972fb77d22bdd9d24406e85328059710f060f02188",
+    "robots.txt": "d01554653ebe58752d1951f3cd1ebbf24fe8c8833f2bd6ab4cc21aac78e6cf04",
+    "b6a7cb810a43d2fc74072b9354903254.txt": "3ef6b86fbe7b86a5789731153ec672e4e796b15fc6c26138fe0cd9d9e9aed674"
+  },
+  "revision": "b34104daba9ee3a565d835d5a8d936f4c351e49e404537c47dc961f5b7b21caf"
+}
